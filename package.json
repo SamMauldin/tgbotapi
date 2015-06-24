@@ -1,9 +1,13 @@
 {
   "name": "tgbotapi",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Telegram bot API client for Node",
   "dependencies": {
     "request": "2.39.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sxw1212/tgbotapi.git"
   },
   "main": "index.js"
 }
