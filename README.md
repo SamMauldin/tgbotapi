@@ -1,6 +1,8 @@
 # TGBotAPI
 A client for the new telegram bot API.
 It's functional now but lacks features.
+Also, you may need to disable privacy mode
+with the BotFather to receive all group chat messages.
 
 
 ```
