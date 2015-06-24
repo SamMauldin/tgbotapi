@@ -1,0 +1,9 @@
+{
+  "name": "tgbotapi",
+  "version": "0.0.1",
+  "description": "Telegram bot API client for Node",
+  "dependencies": {
+    "request": "2.39.0"
+  },
+  "main": "index.js"
+}
