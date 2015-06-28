@@ -19,7 +19,6 @@ TGBotAPI.prototype.sendPhoto = function(opts) {
   var form = new FormData();
   form.append("chat_id", opts.chat_id);
   form.append("photo", request(opts.url));
-  var http = require('http');
 
   var req = https.request({
     method: "post",
