@@ -17,4 +17,9 @@ tgbotapi.sendMessage({
   chat_id: 123456, // Send a message to the bot to get the chat id
   text: "Hello, world!"
 });
+
+tgbotapi.sendPhoto({
+  chat_id: 123456,
+  url: "https://nodejs.org/images/logo.png"
+});
 ```
